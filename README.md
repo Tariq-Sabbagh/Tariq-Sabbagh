@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/Tariq-Sabbagh">
-      <img src="https://github-readme-stats.vercel.app/api?username=Tariq-Sabbagh&show_icons=true&locale=en&theme=aura" alt="Tariq-Sabbagh" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tariq-Sabbagh&show_icons=true&locale=en&theme=aura&include_all_commits=true&count_private=true" alt="Tariq-Sabbagh" width="100%"/>
   </a>
 </p>
 
