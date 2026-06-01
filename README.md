@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tariq</h1>
-<h3 align="center">A Backend Developer And Robotic Coach!</h3>
+<h3 align="center">A Backend Developer , Robotic Coach and DevOps engineer!</h3>
 
 ---
 
